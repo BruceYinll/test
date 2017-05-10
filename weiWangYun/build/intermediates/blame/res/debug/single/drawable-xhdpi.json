@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_more.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_more.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fragment_more_version.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\fragment_more_version.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\e.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\e.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_yunwei.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_yunwei.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\listview_hide.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\listview_hide.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_3.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_3.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\loading_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_checked.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\checkbox_checked.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fragment_more_myyunwei.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\fragment_more_myyunwei.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iv_navagation_scroll_left.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\iv_navagation_scroll_left.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\listview_hide.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\listview_hide.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point_select.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\point_select.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_checked_version.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\checkbox_checked_version.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_2.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_2.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\eyunlogo.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\eyunlogo.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_normal_version.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\checkbox_normal_version.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\loading_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\e_yun.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\e_yun.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_2.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\loading_2.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zuo_xuanzezhan.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\zuo_xuanzezhan.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_pic_btn.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\add_pic_btn.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_shebei.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_shebei.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_4_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_4_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\px_2.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\px_2.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\saoyisao.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\saoyisao.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\op_spinner_background.9.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\op_spinner_background.9.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yijiejue.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\yijiejue.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_3_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_3_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\px_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\px_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_1_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_1_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\imageselector_photo.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\imageselector_photo.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\delete_btn.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\delete_btn.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\lijitiyan.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\lijitiyan.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_mark_circle.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\icon_mark_circle.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point_normal.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\point_normal.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shebei.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\shebei.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\check_number.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\check_number.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_yunwei.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\new_yunwei.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_3.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\loading_3.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iv_navagation_scroll_right.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\iv_navagation_scroll_right.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_phone.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\user_phone.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_mark_button.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\icon_mark_button.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_3_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_3_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_4.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_4.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_2_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_2_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\eyunlogo.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\eyunlogo.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tuoyuan_lan_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\tuoyuan_lan_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_zhan.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\add_zhan.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_user.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\icon_user.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_3.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\loading_3.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\op_radio_back_select.9.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\op_radio_back_select.9.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_ditu.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_ditu.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yishenhe.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\yishenhe.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\saoyisao.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\saoyisao.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\lijitiyan.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\lijitiyan.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zuo_xuanzezhan.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\zuo_xuanzezhan.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_checked_version.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\checkbox_checked_version.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ditutianjia.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\ditutianjia.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_zhan.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\add_zhan.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yishenhe.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\yishenhe.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point_normal.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\point_normal.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_zhan.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_zhan.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\edit_comment.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\edit_comment.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\delete_btn.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\delete_btn.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_zhan.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_zhan.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_ditu.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_ditu.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\account_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\account_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_4_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_4_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\px_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\px_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\touxiang.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\touxiang.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_user.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\icon_user.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\account_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\account_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\daishenhe.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\daishenhe.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_2.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_2.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shebei.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\shebei.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fragment_more_version.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\fragment_more_version.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\edit_comment.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\edit_comment.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ditutianjia.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\ditutianjia.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\listview_show.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\listview_show.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_password.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\user_password.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\op_radio_back_select.9.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\op_radio_back_select.9.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_3.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_3.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_mark_circle.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\icon_mark_circle.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_pic_btn.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\add_pic_btn.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_mark_button.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\icon_mark_button.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_normal.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\touxiang.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\touxiang.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\op_radio_back.9.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\op_radio_back.9.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\check_number.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\check_number.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\daishenhe.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\daishenhe.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_5.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\loading_5.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\listview_show.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\listview_show.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\splash1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fragment_more_loginout.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\fragment_more_loginout.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\splash1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\op_radio_back.9.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\op_radio_back.9.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_normal.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iv_navagation_scroll_right.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\iv_navagation_scroll_right.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fragment_more_loginout.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\fragment_more_loginout.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_name.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\user_name.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_shebei.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_shebei.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iv_navagation_scroll_left.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\iv_navagation_scroll_left.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_1_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_1_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point_select.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\point_select.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\e_yun.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\e_yun.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_checked.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\checkbox_checked.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_yunwei.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_yunwei.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_btn.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\play_btn.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fragment_more_kefuphone.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\fragment_more_kefuphone.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fragment_more_kefuphone.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\fragment_more_kefuphone.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yijiejue.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\yijiejue.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fragment_more_myyunwei.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\fragment_more_myyunwei.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_yunwei.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\new_yunwei.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_name.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\user_name.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_btn.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\play_btn.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_password.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\user_password.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\imageselector_photo.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\imageselector_photo.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_phone.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\user_phone.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\px_2.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\px_2.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_2.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\loading_2.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_5.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\loading_5.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_2_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_2_1.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_normal_version.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\checkbox_normal_version.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_more.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_more.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_left_4.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\home_left_4.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\op_spinner_background.9.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\op_spinner_background.9.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\e.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\e.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tuoyuan_lan_1.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\drawable-xhdpi\\tuoyuan_lan_1.png"
+    }
+]

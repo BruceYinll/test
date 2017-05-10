@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#2d3037"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:onClick="backEvent"
+        android:paddingBottom="@dimen/dim20"
+        android:paddingLeft="@dimen/dim30"
+        android:paddingRight="@dimen/dim30"
+        android:paddingTop="@dimen/dim20"
+        android:src="@drawable/back" />
+
+    <TextView
+        android:id="@+id/title_textView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="回帖"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/txt36" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/dim20"
+        android:background="@drawable/title_submit_btn_bac"
+        android:onClick="title_submit_btn"
+        android:paddingBottom="@dimen/dim12"
+        android:paddingLeft="@dimen/dim27"
+        android:paddingRight="@dimen/dim27"
+        android:paddingTop="@dimen/dim12"
+        android:src="@drawable/back"
+        android:text="发布"
+        android:textColor="#fff"
+        android:textSize="@dimen/txt30" />
+
+</LinearLayout>

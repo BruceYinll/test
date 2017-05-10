@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ms_smallvideo_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ms_smallvideo_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ms_video_focus_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ms_video_focus_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ms_video_focus_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ms_video_focus_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ms_smallvideo_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ms_smallvideo_icon.png"
+    }
+]

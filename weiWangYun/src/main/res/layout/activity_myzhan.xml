@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+      <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim106"
+        android:gravity="center_vertical" 
+        android:background="#2d3037">
+
+        <LinearLayout
+            android:id="@+id/ll_left"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dim35"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/iv_left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/app_name"
+                android:scaleType="centerInside"
+                android:src="@drawable/back" />
+      
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_information"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="我的站"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/txt42" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_right"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/dim35"
+            android:gravity="center_vertical"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal" >
+
+            <Button 
+                android:id="@+id/tijiao"
+                android:layout_width="@dimen/dim108"
+                android:layout_height="@dimen/dim57"
+                android:text="提交"
+                android:textSize="@dimen/txt28"
+                android:textColor="@color/white"
+                android:background="@drawable/round_corner_bg_tijiao"/>
+      
+        </LinearLayout>
+        
+    </RelativeLayout>  
+  <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:gravity="center"
+            android:text="已关联站"
+            android:textColor="@color/white"
+            android:textSize="15sp" 
+            android:background="#222429"                         
+             />
+  <ListView
+              android:id="@+id/listView1"
+           
+              android:layout_width="match_parent"
+              android:layout_height="129dp"
+              android:divider="@null"
+              android:background="#35383f"
+   >  
+   </ListView>
+   <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:gravity="center"
+            android:text="添加新的站"
+            android:textColor="@color/white"
+            android:textSize="15sp" 
+            android:background="#222429"                         
+             />
+   
+ <LinearLayout 
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:background="#35383f"
+     android:orientation="vertical">
+    
+   <LinearLayout 
+       android:id="@+id/addzhan_three_method"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical"
+       android:background="#35383f"
+       >
+       <LinearLayout 
+           android:id="@+id/sao_ditu"
+       android:layout_width="189dp"
+       android:layout_height="53dp"
+       android:layout_marginTop="30dp"
+       android:layout_gravity="center_horizontal"
+       android:orientation="horizontal"
+       android:background="@drawable/round_corner_bg_saoditu"
+       >
+        <LinearLayout 
+            android:id="@+id/myzhan_saotianjia"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            >
+            <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/saoyisao"
+             />
+        </LinearLayout>
+        <View 
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="#111319"/>
+        <LinearLayout 
+            android:id="@+id/myzhan_ditutianjia"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            >
+            <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ditutianjia"
+             /> 
+        </LinearLayout>
+         
+        
+      </LinearLayout>
+  
+       <LinearLayout 
+           android:id="@+id/sao_ditu_wenzi"
+       android:layout_width="189dp"
+       android:layout_height="30dp"
+       android:layout_gravity="center_horizontal"
+       android:orientation="horizontal"
+       >
+         <LinearLayout 
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            >
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="扫一扫"
+            android:textSize="14sp"
+             />
+        </LinearLayout>
+        <LinearLayout 
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            >
+            <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="地图添加"
+            android:textSize="14sp"
+             /> 
+        </LinearLayout>
+        </LinearLayout>
+        <View 
+         android:layout_width="320dp"
+         android:layout_height="2dp"
+         android:layout_marginTop="10dp"
+         android:layout_gravity="center_horizontal" 
+         android:background="#53565c" 
+           />
+        <LinearLayout 
+            android:id="@+id/show_dianzhan"
+          android:layout_width="250dp"
+          android:layout_height="30dp"
+          android:layout_marginTop="20dp"
+          android:orientation="horizontal"
+          android:layout_gravity="center_horizontal"
+          android:gravity="center"
+         android:background="@drawable/round_corner_bg_phone" 
+         >
+          <TextView 
+              android:id="@+id/new_dianzhan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="选择的电站名显示在这里"
+            android:textSize="15sp"
+             />
+          <ImageView 
+            android:id="@+id/myzhan_xuanzezhan"  
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/zuo_xuanzezhan"
+             />  
+        </LinearLayout>
+        <Button
+            android:id="@+id/addzhan_queding"
+            android:layout_width="92dp"
+            android:layout_height="34dp"
+            android:layout_marginTop="47dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="确定添加"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:background="@drawable/round_corner_bg_login"
+            /> 
+       
+   </LinearLayout>
+
+  </LinearLayout>  
+</LinearLayout>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView
+            android:id="@+id/login_account"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dim106"
+            android:gravity="center"
+            android:text="@string/login_account"
+            android:textColor="@color/white"
+            android:textSize="@dimen/txt42" 
+            android:background="#2d3037"                         />
+    
+   <LinearLayout
+           android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#35383f"
+            >
+      <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim346"
+        android:orientation="vertical"
+        android:gravity="center">        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#35383f"
+            android:src="@drawable/eyunlogo" />
+      </LinearLayout>
+      <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/phone_num"
+                android:layout_width="@dimen/dim642"
+                android:layout_height="@dimen/dim90"
+                android:hint="请输入手机号"
+                android:inputType="phone"
+                android:maxLength="11"
+                android:textSize="@dimen/txt30" 
+                android:textColor="#747476"
+                android:drawablePadding="@dimen/dim30"
+                android:paddingLeft="@dimen/dim30"
+                android:drawableLeft="@drawable/user_phone"
+                android:background="@drawable/round_corner_bg_phone"
+                />
+             <EditText
+                android:id="@+id/password_text"
+                android:layout_width="@dimen/dim642"
+                android:layout_height="@dimen/dim90"
+                android:hint="请输入密码"
+                android:inputType="textPassword"
+                android:maxLength="12"
+                
+                android:textSize="@dimen/txt30" 
+                android:textColor="#78797b"
+                android:drawablePadding="@dimen/dim30"
+                android:paddingLeft="@dimen/dim30"
+                android:drawableLeft="@drawable/user_password"
+                android:layout_marginTop="@dimen/dim24"
+                android:background="@drawable/round_corner_bg_password"/>
+            
+            
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="@dimen/dim50"
+            android:orientation="vertical" >
+         <Button
+            android:id="@+id/login_button"
+            android:layout_width="@dimen/dim642"
+            android:layout_height="@dimen/dim90"
+            android:gravity="center"
+            android:text="@string/login_account"
+            android:textColor="@color/white"
+            android:textSize="@dimen/txt36"
+            android:background="@drawable/round_corner_bg_login"
+            />
+         
+
+         <TextView
+            android:id="@+id/newUser_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dim64"
+            android:gravity="center_horizontal"
+            android:text="新用户注册"
+            android:textColor="@color/white"
+            android:textSize="@dimen/txt36" 
+                                     />
+         
+         </LinearLayout>
+         
+        
+        
+         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom"
+            android:orientation="vertical" >  
+           <TextView
+               android:id="@+id/fg_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dim70"
+            android:gravity="center_horizontal"
+            android:text="忘记密码"
+            android:textColor="#d1d1d2"
+            android:textSize="@dimen/txt30" 
+                                     />
+         </LinearLayout>
+         
+     </LinearLayout> 
+</LinearLayout>

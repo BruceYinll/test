@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ms_video_focus_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\src\\main\\res\\drawable-xhdpi\\ms_video_focus_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ms_smallvideo_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\src\\main\\res\\drawable-xhdpi\\ms_smallvideo_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ms_smallvideo_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\src\\main\\res\\drawable-xhdpi\\ms_smallvideo_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ms_video_focus_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\src\\main\\res\\drawable-xhdpi\\ms_video_focus_icon.png"
+    }
+]

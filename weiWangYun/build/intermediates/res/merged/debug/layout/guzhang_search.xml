@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#35383f"
+    android:orientation="vertical" >
+    
+  <LinearLayout 
+      android:layout_width="match_parent"
+      android:layout_height="@dimen/dim106"
+      android:gravity="center_vertical"
+      
+      android:background="#2d3037"
+      >
+    <LinearLayout 
+        android:layout_width="@dimen/dim556"
+        android:layout_height="@dimen/dim70"
+        android:background="@drawable/round_corner_bg_phone"
+        android:layout_marginLeft="@dimen/dim26"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <Button 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dim16"
+            android:background="@drawable/search"
+            />
+        
+        <EditText 
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:layout_marginLeft="@dimen/dim16"
+            android:textSize="@dimen/txt30"
+            android:hint="请输入关键字"/>
+    </LinearLayout>
+    <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dim36"
+            android:text="取消"
+            android:textColor="#51a6f6"
+            android:textSize="@dimen/txt30"/>
+    </LinearLayout> 
+    <View 
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dim1"
+            android:background="#15161a"/>
+    
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="#00ff00"
+        android:dividerHeight="@dimen/dim10" >
+    </ListView>
+</LinearLayout>

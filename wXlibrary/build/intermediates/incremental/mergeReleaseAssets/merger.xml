@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\MyWork\MyWorkspace\eCloud_YLL\wXlibrary\src\main\assets"/><source path="D:\MyWork\MyWorkspace\eCloud_YLL\wXlibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\MyWork\MyWorkspace\eCloud_YLL\wXlibrary\src\release\assets"/></dataSet></merger>

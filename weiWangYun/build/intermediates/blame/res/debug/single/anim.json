@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\focus_animation.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\anim\\focus_animation.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\anim\\push_bottom_in2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\indicator_animation.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\anim\\indicator_animation.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\indicator_animation.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\anim\\indicator_animation.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\anim\\push_bottom_in2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\imageselector_out_to_right.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\imageselector_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\focus_animation.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\anim\\focus_animation.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\imageselector_out_to_right.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\imageselector_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\imageselector_in_from_left.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\imageselector_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\imageselector_in_from_left.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\imageselector_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\anim\\push_bottom_in.xml"
+    }
+]

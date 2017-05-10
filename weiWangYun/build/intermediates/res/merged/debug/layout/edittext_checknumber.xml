@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    
+    <EditText 
+        android:id="@+id/edittext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginRight="0dp"
+        android:singleLine="true"
+        android:maxLength="6"
+        android:hint="请输入验证码"
+        android:inputType="number"
+        
+                android:drawablePadding="15.4sp"
+                android:paddingLeft="15.4sp"
+                android:drawableLeft="@drawable/check_number"
+        android:background="@drawable/round_corner_bg_password" 
+        android:textSize="@dimen/dim30"
+        android:textColor="@color/white" 
+         />
+    <Button 
+        android:id="@+id/button"
+        android:layout_width="132dp"
+        android:layout_height="49dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="0.5dp"
+        android:layout_marginRight="0.5dp"
+        android:layout_marginBottom="0.5dp"
+        android:textSize="@dimen/dim30"
+        android:text="获取验证码"
+        android:textColor="@drawable/yanzhengma_textcolor_selector"
+        android:background="@drawable/yanzhengma_selector"
+        />
+     
+</RelativeLayout>

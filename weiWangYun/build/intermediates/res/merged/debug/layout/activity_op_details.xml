@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2d3037"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/title_layout" />
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/opdetail_scrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:cacheColorHint="#00000000"
+        android:divider="#00ff00"
+        android:dividerHeight="@dimen/dim10"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:smoothScrollbar="true"
+        ptr:ptrAnimationStyle="flip"
+        ptr:ptrHeaderTextAppearance="@android:attr/textAppearanceMedium" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#3b3d42"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="@dimen/dim10" >
+
+                <ImageView
+                    android:id="@+id/opdetail_details_imageView"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@null"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/imageselector_photo" />
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:paddingBottom="2dp"
+                    android:paddingLeft="15dp"
+                    android:paddingTop="2dp" >
+
+                    <TextView
+                        android:id="@+id/opdetail_creatNameTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:text="张全东"
+                        android:textColor="#fff"
+                        android:textSize="@dimen/txt26" />
+
+                    <TextView
+                        android:id="@+id/opdetail_creatTimeTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:background="@null"
+                        android:text="2016-01-02 10:20"
+                        android:textColor="#fff"
+                        android:textSize="@dimen/txt26" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/opdetail_problem_state_textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/red_point"
+                    android:drawablePadding="4dp"
+                    android:text="未解决"
+                    android:textColor="#ea2d49"
+                    android:textSize="@dimen/txt24" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#4a4c53"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/dim10" >
+
+                    <TextView
+                        android:id="@+id/opdetail_title_question_textView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="故障标题"
+                        android:textColor="#fff"
+                        android:textSize="@dimen/dim30" />
+
+                    <TextView
+                        android:id="@+id/opdetail_type_textView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"
+                        android:text="上海闵行区微电站>光伏发电类设备>设备1"
+                        android:textColor="#4d99e1"
+                        android:textSize="@dimen/txt24" />
+
+                    <TextView
+                        android:id="@+id/opdetail_contentTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="故障内容详情"
+                        android:textColor="#96979a"
+                        android:textSize="@dimen/dim26" />
+
+                    <com.sptd.eyun.widget.NestGridView
+                        android:id="@+id/opdetail_photo_gridView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:horizontalSpacing="5dp"
+                        android:numColumns="3"
+                        android:verticalSpacing="5dp" >
+                    </com.sptd.eyun.widget.NestGridView>
+
+                    <FrameLayout
+                        android:id="@+id/opdetail_play_framelayout"
+                        android:layout_width="160dp"
+                        android:layout_height="120dp"
+                        android:background="@null"
+                        android:gravity="center" >
+
+                        <com.yqritc.scalablevideoview.ScalableVideoView
+                            xmlns:app="http://schemas.android.com/apk/res-auto"
+                            android:id="@+id/opdetail_video_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="@dimen/dim20"
+                            app:scalableType="fitCenter" />
+
+                        <ImageView
+                            android:id="@+id/opdetail_thumbnailImageView"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="@dimen/dim20"
+                            android:scaleType="fitCenter" />
+
+                        <ImageView
+                            android:id="@+id/opdetail_playImageView"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/play_btn" />
+
+                        <!--
+                             <com.sptd.eyun.widget.TasksCompletedView
+                            xmlns:tc="http://schemas.android.com/apk/res-auto"
+                            android:id="@+id/progress_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            tc:circleColor="@color/circle_color"
+                            tc:radius="1dp"
+                            tc:ringColor="@color/ring_color"
+                            tc:strokeWidth="20dip" />
+                        -->
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginBottom="@dimen/dim10"
+                            android:gravity="center" >
+
+                            <ProgressBar
+                                android:id="@+id/opdetail_progress_view"
+                                android:layout_width="35dp"
+                                android:layout_height="35dp"
+                                android:visibility="gone" />
+                        </LinearLayout>
+                    </FrameLayout>
+                </LinearLayout>
+
+                <com.sptd.eyun.widget.NestListView
+                    android:id="@+id/opdetail_photo_listView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#3b3d42" >
+                </com.sptd.eyun.widget.NestListView>
+            </LinearLayout>
+        </LinearLayout>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+    <LinearLayout
+        android:id="@+id/opdetail_comment_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dim10"
+        android:background="#3f4249"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/edit_comment"
+            android:drawablePadding="15dp"
+            android:padding="@dimen/dim23"
+            android:text="发表回帖"
+            android:textColor="#dadadb"
+            android:textSize="@dimen/dim30" />
+    </LinearLayout>
+
+</LinearLayout>

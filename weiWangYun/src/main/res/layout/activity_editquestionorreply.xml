@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2d3037"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2d3037"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:onClick="backEvent"
+            android:paddingBottom="@dimen/dim20"
+            android:paddingLeft="@dimen/dim30"
+            android:paddingRight="@dimen/dim30"
+            android:paddingTop="@dimen/dim20"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:id="@+id/title_textView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="回帖"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/txt36" />
+
+        <Button
+            android:id="@+id/titleDeleteBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dim20"
+            android:background="@drawable/title_delete_btn_back"
+            android:onClick="title_delete_btn"
+            android:paddingBottom="@dimen/dim12"
+            android:paddingLeft="@dimen/dim27"
+            android:paddingRight="@dimen/dim27"
+            android:paddingTop="@dimen/dim12"
+            android:src="@drawable/back"
+            android:text="删除"
+            android:textColor="#fff"
+            android:textSize="@dimen/txt30" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#2d3037"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/questionLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/station_device_name_textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#3b3d42"
+                    android:padding="10dp"
+                    android:text="上海闵行区微电站>光伏发电类设备>设备1"
+                    android:textColor="#4d99e1"
+                    android:textSize="@dimen/txt24" />
+
+                <TextView
+                    android:id="@+id/question_titleTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#4a4c53"
+                    android:padding="10dp"
+                    android:text="故障标题"
+                    android:textColor="#fff"
+                    android:textSize="@dimen/dim30" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:paddingBottom="20dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="20dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="故障状态："
+                        android:textColor="#fff"
+                        android:textSize="@dimen/dim28" />
+
+                    <Spinner
+                        android:id="@+id/spin_province"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="50dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/op_spinner_background"
+                        android:gravity="center_vertical" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#222429"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="填写故障描述"
+                    android:textColor="#fff" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dim20"
+                android:background="@drawable/op_new_edittxt_backgrond" >
+
+                <EditText
+                    android:id="@+id/describe_editText"
+                   android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:gravity="top"
+                    android:hint="请详细描述你的设备故障信息..."
+                    android:maxLength="200"
+                    android:maxLines="4"
+                    android:minLines="4"
+                    android:paddingBottom="@dimen/dim20"
+                    android:paddingLeft="@dimen/dim15"
+                    android:paddingRight="@dimen/dim15"
+                    android:paddingTop="@dimen/dim20"
+                    android:textColor="#fff"
+                    android:textSize="@dimen/txt34"/>
+
+                <TextView
+                    android:id="@+id/count_textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/describe_editText"
+                    android:layout_alignRight="@id/describe_editText"
+                    android:paddingRight="@dimen/dim10"
+                    android:text="0/200"
+                    android:textSize="@dimen/txt24" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dim20"
+                android:text="上传照片"
+                android:textSize="@dimen/txt24" />
+
+            <com.sptd.eyun.widget.NestGridView
+                android:id="@+id/take_photo_gridView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dim20"
+                android:horizontalSpacing="5dp"
+                android:numColumns="3"
+                android:verticalSpacing="5dp" >
+            </com.sptd.eyun.widget.NestGridView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dim20"
+                android:text="上传视频"
+                android:textSize="@dimen/txt24" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/play_framelayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent" >
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@null" >
+
+                        <com.yqritc.scalablevideoview.ScalableVideoView
+                            xmlns:app="http://schemas.android.com/apk/res-auto"
+                            android:id="@+id/video_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:scalableType="fitCenter" />
+
+                        <ImageView
+                            android:id="@+id/thumbnailImageView"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/imageselector_photo" />
+
+                        <ImageView
+                            android:id="@+id/playImageView"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/play_btn" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginBottom="@dimen/dim10"
+                            android:gravity="center" >
+
+                            <ProgressBar
+                                android:id="@+id/progress_view"
+                                android:layout_width="35dp"
+                                android:layout_height="35dp"
+                                android:visibility="gone" />
+                        </LinearLayout>
+                    </FrameLayout>
+
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginRight="3dp"
+                        android:layout_marginTop="3dp"
+                        android:background="@drawable/delete_btn"
+                        android:onClick="delete_video_btn" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:id="@+id/add_video_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/dim20"
+                    android:layout_marginTop="10dp"
+                    android:adjustViewBounds="true"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/add_pic_btn"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dim20"
+                android:background="@drawable/op_new_submit_btn_bck"
+                android:onClick="submitOnclick"
+                android:padding="@dimen/dim20"
+                android:text="提交"
+                android:textColor="#fff"
+                android:textSize="@dimen/txt28" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

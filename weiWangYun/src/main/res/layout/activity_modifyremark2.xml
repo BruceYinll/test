@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#35383f"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim106"
+        android:gravity="center_vertical" 
+        android:background="#2d3037">
+
+        <LinearLayout
+            android:id="@+id/ll_left"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dim35"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/app_name"
+                android:scaleType="centerInside"
+                android:src="@drawable/back" />
+      
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_information"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="用户简介"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/txt42" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_right"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/dim35"
+            android:gravity="center_vertical"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal" >
+
+            <Button 
+                android:id="@+id/submit"
+                android:layout_width="@dimen/dim108"
+                android:layout_height="@dimen/dim57"
+                android:text="确定"
+                android:textSize="@dimen/txt28"
+                android:textColor="@color/white"
+                android:background="@drawable/round_corner_bg_tijiao"/>
+      
+        </LinearLayout>
+        
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="@dimen/dim642"
+          android:layout_height="@dimen/dim272"
+          android:layout_marginTop="@dimen/dim44"
+          android:layout_gravity="center">
+
+        <EditText
+           android:id="@+id/et_user_description"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="top"   
+            android:hint="注册用户简介..."
+            android:maxLength="100"
+            android:padding="@dimen/dim20"
+            android:background="@drawable/round_corner_bg_password"
+            android:textSize="@dimen/dim30" 
+            android:textColor="@color/white" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dim36"
+            android:layout_marginBottom="@dimen/dim22" >
+
+            <TextView
+                android:id="@+id/tv_sum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dim27" />
+
+            <TextView
+                android:id="@+id/tv_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="/100"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dim27" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

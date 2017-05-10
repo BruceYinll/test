@@ -1,0 +1,468 @@
+[
+    {
+        "outputFile": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 46,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 46,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 37,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 37,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 43,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 43,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 42,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 42,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 55,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 55,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 48,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 48,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 53,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 53,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 38,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 38,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 35,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 35,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 38,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 38,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 48,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 48,
+                        "endOffset": 588
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 46,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 46,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 37,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 37,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 43,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 43,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 42,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 42,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 55,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 55,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 48,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 48,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 53,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 53,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 38,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 38,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 35,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 35,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 38,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 38,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 48,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 48,
+                        "endOffset": 588
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/partent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2d3037"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/title_layout" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/viewPartent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#232429"
+                android:gravity="center"
+                android:padding="@dimen/dim16"
+                android:text="选择故障设备"
+                android:textColor="#bcbcbe"
+                android:textSize="@dimen/txt28" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#2d3037"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="@dimen/dim20" >
+
+                <Spinner
+                    android:id="@+id/spin_province"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    
+                    android:background="@drawable/op_spinner_background"
+                    android:gravity="center_vertical" />
+
+                <Spinner
+                    android:id="@+id/spin_city"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/op_spinner_background"
+                    android:gravity="center_vertical" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <com.sptd.eyun.widget.OPHorizontalScrollView
+                    android:id="@+id/op_horizontal_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="none" >
+
+                    <RadioGroup
+                        android:id="@+id/op_radioGroup"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+                    </RadioGroup>
+                </com.sptd.eyun.widget.OPHorizontalScrollView>
+
+                <ImageButton
+                    android:id="@+id/paging_left_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:background="@null"
+                    android:onClick="pageTurningEvent"
+                    android:src="@drawable/iv_navagation_scroll_left" />
+
+                <ImageButton
+                    android:id="@+id/paging_right_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@null"
+                    android:onClick="pageTurningEvent"
+                    android:src="@drawable/iv_navagation_scroll_right" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/selectOpNameTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#232429"
+                android:gravity="center"
+                android:padding="@dimen/dim8"
+                android:singleLine="true"
+                android:text="设备名称"
+                android:textColor="#fff"
+                android:textSize="@dimen/txt28" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dim20"
+                android:background="#232429"
+                android:gravity="center"
+                android:padding="@dimen/dim16"
+                android:text="填写故障描述"
+                android:textColor="#bcbcbe"
+                android:textSize="@dimen/txt28" />
+
+            <EditText
+                android:id="@+id/title_editText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dim20"
+                android:background="@drawable/op_new_edittxt_backgrond"
+                android:hint="请输入标题（最多40个字）"
+                android:maxLength="40"
+                android:padding="@dimen/dim20"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textSize="@dimen/txt34" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dim20"
+                android:background="@drawable/op_new_edittxt_backgrond" >
+
+                <EditText
+                    android:id="@+id/trouble_describe_editText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:gravity="top"
+                    android:hint="请详细描述你的设备故障信息..."
+                    android:maxLength="200"
+                    android:maxLines="4"
+                    android:minLines="4"
+                    android:paddingBottom="@dimen/dim20"
+                    android:paddingLeft="@dimen/dim15"
+                    android:paddingRight="@dimen/dim15"
+                    android:paddingTop="@dimen/dim20"
+                    android:textColor="#fff"
+                    android:textSize="@dimen/txt34" />
+
+                <TextView
+                    android:id="@+id/count_textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/trouble_describe_editText"
+                    android:layout_alignRight="@id/trouble_describe_editText"
+                    android:paddingRight="@dimen/dim10"
+                    android:text="0/200"
+                    android:textSize="@dimen/txt24" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_margin="@dimen/dim20"
+                android:background="#494c53" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dim20"
+                android:text="上传照片"
+                android:textSize="@dimen/txt24" />
+
+            <com.sptd.eyun.widget.NestGridView
+                android:id="@+id/take_photo_gridView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dim20"
+                android:horizontalSpacing="5dp"
+                android:numColumns="3"
+                android:verticalSpacing="5dp" >
+            </com.sptd.eyun.widget.NestGridView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dim20"
+                android:text="上传视频"
+                android:textSize="@dimen/txt24" />
+
+            <LinearLayout
+                android:layout_margin="@dimen/dim20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/play_framelayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@null"
+                    android:visibility="gone" >
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="fill_parent" >
+
+                        <com.yqritc.scalablevideoview.ScalableVideoView
+                            xmlns:app="http://schemas.android.com/apk/res-auto"
+                            android:id="@+id/video_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:scalableType="fitCenter" />
+
+                        <ImageView
+                             
+                            android:id="@+id/thumbnailImageView"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="fitCenter" />
+
+                        <ImageView
+                            android:id="@+id/playImageView"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/play_btn" />
+                    </FrameLayout>
+
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginRight="3dp"
+                        android:layout_marginTop="3dp"
+                        android:background="@drawable/delete_btn"
+                        android:onClick="delete_video_btn" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:id="@+id/add_video_btn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    android:layout_marginLeft="10dp"
+                    android:focusable="false"
+                    android:src="@drawable/add_pic_btn" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_margin="@dimen/dim20"
+                android:background="#494c53" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/dim20"
+                android:background="@drawable/op_new_submit_btn_bck"
+                android:onClick="submitOnclick"
+                android:padding="@dimen/dim20"
+                android:text="提交"
+                android:textColor="#fff"
+                android:textSize="@dimen/txt28" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

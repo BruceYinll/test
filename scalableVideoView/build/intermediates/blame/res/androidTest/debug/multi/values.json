@@ -1,0 +1,286 @@
+[
+    {
+        "outputFile": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\scalableVideoView\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 57,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 57,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 55,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 55,
+                        "endOffset": 1544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endColumn": 52,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1549,
+                        "endColumn": 52,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 54,
+                    "endOffset": 1652
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endColumn": 54,
+                        "endOffset": 1652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1657,
+                    "endColumn": 52,
+                    "endOffset": 1705
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1657,
+                        "endColumn": 52,
+                        "endOffset": 1705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1710,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 1996
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1710,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 1996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2001,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2156
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2001,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 2156
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\MyWork\\MyWorkspace\\MyApplication\\scalableVideoView\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 57,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 57,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 55,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 55,
+                        "endOffset": 1544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endColumn": 52,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1549,
+                        "endColumn": 52,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 54,
+                    "endOffset": 1652
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endColumn": 54,
+                        "endOffset": 1652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1657,
+                    "endColumn": 52,
+                    "endOffset": 1705
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1657,
+                        "endColumn": 52,
+                        "endOffset": 1705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1710,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 1996
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1710,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 1996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2001,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2156
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\scalableVideoView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2001,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 2156
+                    }
+                }
+            }
+        ]
+    }
+]

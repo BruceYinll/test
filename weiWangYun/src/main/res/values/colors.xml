@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#ff0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="home_select">#15161a</color>
+    <color name="home_no_select">#202126</color>
+    <color name="colorPrimaryDark">#D02090</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="green">#2deabb</color>
+    <color name="red_red">#ea2d49</color>
+    <color name="circle_color">#323a45</color>
+    <color name="ring_color">#14b9d6</color>
+
+</resources>

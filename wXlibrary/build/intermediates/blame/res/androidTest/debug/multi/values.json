@@ -1,0 +1,164 @@
+[
+    {
+        "outputFile": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endColumn": 53,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 53,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 52,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 52,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 46,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 46,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 52,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 52,
+                        "endOffset": 687
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endColumn": 53,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 53,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 52,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 52,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 46,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 46,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 52,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 52,
+                        "endOffset": 687
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim106"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/search_trouble_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dim16"
+            android:layout_weight="1"
+            android:background="@drawable/round_corner_bg_phone"
+            android:drawableLeft="@drawable/search"
+            android:drawablePadding="@dimen/dim16"
+            android:gravity="left|center_vertical"
+            android:hint="请输入关键字"
+            android:padding="10dip"
+            android:textSize="@dimen/txt30" />
+
+        <ImageButton
+            android:id="@+id/new_op_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:background="@null"
+            android:padding="10dp"
+            android:src="@drawable/new_yunwei" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Spinner
+            android:id="@+id/spin_province"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/op_spinner_background"
+            android:gravity="center_vertical" />
+
+        <Spinner
+            android:id="@+id/spin_city"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_weight="1"
+            android:background="@drawable/op_spinner_background"
+            android:gravity="center_vertical" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim6"
+        android:background="#ea2d49" />
+
+    
+         <com.handmark.pulltorefresh.library.PullToRefreshListView  
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"  
+        android:id="@+id/fragment_yunwei_yunweilist"
+        android:layout_width="fill_parent"  
+        android:layout_height="fill_parent"  
+        android:cacheColorHint="#00000000"  
+        android:fadingEdge="none"  
+        android:fastScrollEnabled="false"  
+        android:footerDividersEnabled="false"  
+        android:headerDividersEnabled="false"  
+        android:smoothScrollbar="true"  
+        ptr:ptrAnimationStyle="flip"  
+        android:divider="@android:color/black"
+        android:dividerHeight="@dimen/dim1"
+        ptr:ptrHeaderTextAppearance="@android:attr/textAppearanceMedium"/>
+
+
+   <!-- <ListView
+        android:id="@+id/fragment_yunwei_yunweilist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#00ff00"
+        android:dividerHeight="@dimen/dim10" >
+    </ListView>    -->
+
+</LinearLayout>

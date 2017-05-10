@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\focus_animation.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\src\\main\\res\\anim\\focus_animation.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\focus_animation.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\src\\main\\res\\anim\\focus_animation.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\indicator_animation.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\src\\main\\res\\anim\\indicator_animation.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\indicator_animation.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\src\\main\\res\\anim\\indicator_animation.xml"
+    }
+]

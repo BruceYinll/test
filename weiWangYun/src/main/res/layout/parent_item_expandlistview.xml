@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="8dp" 
+        android:background="#35383f"/>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="#4a4c53"
+        android:orientation="horizontal">
+        <ImageView 
+          android:id="@+id/imageview2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:src="@drawable/home_left_2"/>
+        <LinearLayout 
+            android:layout_width="38dp"
+            android:layout_height="36dp"
+            android:gravity="center"
+            >
+            <ImageView 
+                android:id="@+id/imageview3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/home_left_2_1"/>
+        </LinearLayout>
+        <TextView 
+            android:id="@+id/textView1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:paddingRight="9dp"
+            android:text="属性"
+            />
+      <ImageView
+        android:id="@+id/imageview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="15dip"
+        android:src="@drawable/listview_show" />
+    </LinearLayout>
+    
+
+</RelativeLayout>

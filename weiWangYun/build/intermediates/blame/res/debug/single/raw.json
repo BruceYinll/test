@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\raw\\realm_properties"
+    }
+]

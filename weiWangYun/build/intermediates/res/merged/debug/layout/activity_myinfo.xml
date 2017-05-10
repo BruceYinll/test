@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#35383f"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim106"
+        android:background="#1d1d1d"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll_left"
+            android:layout_width="@dimen/dim100"
+            android:layout_height="match_parent"
+            
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/app_name"
+                android:scaleType="centerInside" 
+                android:src="@drawable/back"/>            
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_information"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/dim15"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="个人信息"
+                android:textColor="@color/white"
+                android:textSize="@dimen/txt42" />          
+        </LinearLayout>     
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/ll_head"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim190"
+        android:layout_marginTop="@dimen/dim14"
+        android:background="#4a4c53"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/dim28" >
+        
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"            
+            android:text="头像"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dim30" />
+
+        <ImageView
+            android:id="@+id/iv_head"
+            android:layout_width="@dimen/dim152"
+            android:layout_height="@dimen/dim152"
+            android:src="@drawable/touxiang" />
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dim25"
+            android:layout_marginRight="@dimen/dim30"
+            android:src="@drawable/zuo_xuanzezhan" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_userName"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim96"
+        android:layout_marginTop="@dimen/dim14"
+        android:background="#4a4c53"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/dim28" >
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+          
+            android:text="用户名"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dim30" />
+
+        <TextView
+            android:id="@+id/tv_userName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" 
+            android:gravity="right"  
+            android:text="张震天" 
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:textColor="#4e7eb0"
+            android:textSize="@dimen/dim28"/>
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dim25"
+            android:layout_marginRight="@dimen/dim30"
+            android:src="@drawable/zuo_xuanzezhan" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_remark"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim96"
+        android:layout_marginTop="@dimen/dim14"
+        android:background="#4a4c53"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/dim28" >
+        
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"            
+            android:text="用户简介"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dim30" />
+
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dim25"
+            android:layout_marginRight="@dimen/dim30"
+            android:src="@drawable/zuo_xuanzezhan" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_mobile"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim96"
+        android:layout_marginTop="@dimen/dim14"
+        android:background="#4a4c53"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/dim28" >
+        
+        <TextView
+            
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"            
+            android:text="手机号"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dim30" />
+
+        <TextView
+            android:id="@+id/tv_mobile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="152 0533 5666" 
+            android:textColor="#4e7eb0"
+            android:textSize="@dimen/dim28"/>
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dim25"
+            android:layout_marginRight="@dimen/dim30"
+            android:src="@drawable/zuo_xuanzezhan"
+            android:visibility="invisible" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_guanlianzhan"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim96"
+        android:layout_marginTop="@dimen/dim14"
+        android:background="#4a4c53"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/dim28" >
+        
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"            
+            android:text="关联站"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dim30" />
+
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dim25"
+            android:layout_marginRight="@dimen/dim30"
+            android:src="@drawable/zuo_xuanzezhan" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_modifypassword"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim96"
+        android:layout_marginTop="@dimen/dim14"
+        android:background="#4a4c53"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/dim28" >
+        
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"            
+            android:text="修改密码"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dim30" />
+
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dim25"
+            android:layout_marginRight="@dimen/dim30"
+            android:src="@drawable/zuo_xuanzezhan" />
+    </LinearLayout>
+</LinearLayout>

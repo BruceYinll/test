@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ms_smallvideo_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ms_smallvideo_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ms_video_focus_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ms_video_focus_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ms_smallvideo_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ms_smallvideo_icon.png"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ms_video_focus_icon.png",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\wXlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ms_video_focus_icon.png"
+    }
+]

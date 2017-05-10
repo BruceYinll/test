@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+   <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim90"
+        android:background="#2d3037"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll_left"
+            android:layout_width="@dimen/dim100"
+            android:layout_height="match_parent"
+            
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/app_name"
+                android:scaleType="centerInside" 
+                android:src="@drawable/back"/>            
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_information"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/login_account"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/dim15"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/login_register"
+                android:textColor="@color/white"
+                android:textSize="@dimen/txt42" />          
+        </LinearLayout>     
+    </RelativeLayout>
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:fillViewport="true"
+      android:scrollbars="none"
+ >    
+   <LinearLayout
+           android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#35383f"
+            >
+      <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dim800"
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+          
+            
+            >
+              <!--  
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            -->
+          <EditText
+                android:id="@+id/user_name"
+                android:layout_width="@dimen/dim642"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_marginTop="@dimen/dim40"
+                android:hint="请输入用户名"
+                android:inputType="text"
+                android:maxLength="20"
+                android:textSize="15.4sp" 
+                android:textColor="@color/white"
+                android:drawablePadding="15.4sp"
+                android:paddingLeft="15.4sp"
+                android:drawableLeft="@drawable/user_name"
+                android:background="@drawable/round_corner_bg_phone" />
+          <EditText
+          android:id="@+id/user_description"
+          android:layout_width="@dimen/dim642"
+          android:layout_height="0dp"
+                android:layout_weight="2"
+          android:gravity="top"
+          android:layout_marginTop="@dimen/dim20"
+          android:textSize="15.4sp" 
+          android:textColor="@color/white"
+          android:hint="注册用户简介..."
+          android:padding="15.4sp"
+          android:maxLength="100"
+          android:background="@drawable/round_corner_bg_password"
+          android:inputType="textMultiLine" >
+
+      </EditText>
+      <EditText
+                android:id="@+id/phone_number"
+                android:layout_width="@dimen/dim642"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:hint="请输入手机号"
+                android:inputType="phone"
+                android:maxLength="16"
+                android:textSize="15.4sp"
+                android:textColor="@color/white" 
+                android:drawablePadding="15.4sp"
+                android:paddingLeft="15.4sp"
+                android:drawableLeft="@drawable/user_phone"
+                android:layout_marginTop="@dimen/dim20"
+                android:background="@drawable/round_corner_bg_password"/>
+      <com.sptd.eyun.widget.EditTextCheckNumber
+                android:id="@+id/check_number"
+                android:layout_width="@dimen/dim642"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:hint="请输入验证码"
+                android:inputType="text"
+                android:maxLength="16"
+                android:textSize="15.4sp"
+                android:layout_marginTop="@dimen/dim20"
+                android:layout_gravity="center_horizontal"
+       >                
+    </com.sptd.eyun.widget.EditTextCheckNumber>
+      <EditText
+                android:id="@+id/password_text"
+                android:layout_width="@dimen/dim642"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:hint="请输入密码"
+                android:inputType="textPassword"
+                android:maxLength="12"
+                android:textSize="15.4sp"
+                android:textColor="@color/white" 
+                android:drawablePadding="15.4sp"
+                android:paddingLeft="15.4sp"
+                android:drawableLeft="@drawable/user_password"
+                android:layout_marginTop="@dimen/dim20"
+                android:background="@drawable/round_corner_bg_password"/>
+      <EditText
+                android:id="@+id/password_confirm"
+                android:layout_width="@dimen/dim642"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:hint="请确认密码"
+                android:inputType="textPassword"
+                android:maxLength="12"
+                android:textSize="15.4sp"
+                android:textColor="@color/white" 
+                android:drawablePadding="15.4dp"
+                android:paddingLeft="15.4sp"
+                android:drawableLeft="@drawable/user_password"
+                android:layout_marginTop="@dimen/dim20"
+                android:layout_marginBottom="@dimen/dim49"
+                android:background="@drawable/round_corner_bg_password"/>
+      </LinearLayout>
+      <LinearLayout 
+          android:layout_width="match_parent"
+           android:layout_height="0dp"     
+           android:layout_weight="1"
+          android:orientation="vertical"          
+          >
+          
+          <TextView
+            android:id="@+id/add_zhan_hide"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dim70"
+            android:gravity="center"
+            android:text="添加关联站"
+            android:textColor="@color/white"
+            android:textSize="@dimen/txt38" 
+            android:drawableRight="@drawable/listview_show"   
+            android:paddingRight="15.4sp"                   
+            android:background="#222429"  />
+           <TextView
+            android:id="@+id/yixuanze_zhan"
+            android:layout_width="match_parent"
+            android:layout_height="51.2dp"
+            android:gravity="center"
+            android:text="已选择"
+            android:textColor="@color/white"
+            android:textSize="19.5sp"                 
+            android:visibility="gone" />
+          <ListView
+              android:id="@+id/listView1"
+           
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:divider="@null"
+              android:visibility="gone" >
+          </ListView>
+          <LinearLayout 
+              android:id="@+id/add_zhan"
+              android:layout_width="match_parent"
+              android:layout_height="48.2dp"
+              android:gravity="center"
+              android:orientation="horizontal"
+              android:visibility="gone"
+              android:background="#3f4249"
+              >
+              <ImageView 
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:src="@drawable/add_zhan"
+                  />
+              <TextView 
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="添加新的站"
+                  android:textColor="@color/white"
+                  android:textSize="21.5sp"
+                  android:layout_marginLeft="8.7dp"
+                  />
+          </LinearLayout>
+  
+         <Button
+            android:id="@+id/apply_button"
+            android:layout_width="@dimen/dim642"
+            android:layout_height="@dimen/dim70"
+            android:layout_marginTop="28dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="申请授权"
+            android:textColor="@color/white"
+            android:textSize="18.5sp"
+            android:background="@drawable/round_corner_bg_login"
+            /> 
+            <LinearLayout 
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dim40"
+                android:layout_marginTop="@dimen/dim50"
+                android:layout_marginBottom="@dimen/dim30"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:visibility="gone">
+                <CheckBox 
+                    
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/dim40"
+                    style="@style/CustomCheckboxTheme" 
+                    android:text="我已阅读并同意"
+                    android:textSize="@dimen/txt28"
+                     android:textColor="#818285"                  />
+              
+                <TextView 
+                    
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/dim40"
+                    android:layout_marginLeft="@dimen/dim20"
+                    
+                    android:text="@string/user_pro"
+                    android:textSize="@dimen/txt28"
+                    android:textColor="#51a6f6"
+                    />               
+            </LinearLayout>
+            <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="@dimen/dim40"
+               android:layout_marginTop="@dimen/dim50"
+               android:layout_marginBottom="@dimen/dim30"
+               android:gravity="center"
+               android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/check_box"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dim40"
+                android:background="@drawable/checkbox_style"                
+                android:checked="false"
+                android:button="@null" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dim40"
+                android:layout_marginLeft="@dimen/dim20"
+                android:text="我已阅读并同意"
+                android:textSize="@dimen/txt28"
+                android:textColor="#818285"  />
+            <TextView 
+                    android:id="@+id/user_protocol"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/dim40"
+                    android:layout_marginLeft="@dimen/dim20"
+                    
+                    android:text="@string/user_pro"
+                    android:textSize="@dimen/txt28"
+                    android:textColor="#51a6f6"
+                    />  
+        </LinearLayout>
+            
+      </LinearLayout>
+      
+       
+    </LinearLayout>          
+  </ScrollView>
+</LinearLayout>

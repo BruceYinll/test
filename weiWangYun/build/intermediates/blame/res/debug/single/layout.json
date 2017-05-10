@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_item_folder.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_item_folder.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guanlizhan_item_2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\guanlizhan_item_2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modifypassword.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_modifypassword.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\apply_dialog.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\apply_dialog.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_title_bar.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_title_bar.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\title_layout.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\takephotodialog.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\takephotodialog.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\apply_dialog.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\apply_dialog.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guide_page1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\guide_page1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\detail_list_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\detail_list_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_zhan.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\fragment_zhan.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modifyremark.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_modifyremark.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shebei.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\fragment_shebei.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_zhan.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\fragment_zhan.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modifyremark.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_modifyremark.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\pop_pic_window.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\pop_pic_window.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guanlianzhan_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\guanlianzhan_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\xuanzezhan_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\xuanzezhan_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\act_splash.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\act_splash.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\pop_video_window.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\pop_video_window.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\child_item_expandlistview1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\child_item_expandlistview1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modifyusername.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_modifyusername.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\parent_item_expandlistview.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\parent_item_expandlistview.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guanlianzhan_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\guanlianzhan_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\delete_dialog.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\delete_dialog.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_item_image.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_item_image.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\nav_radiogroup_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\nav_radiogroup_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\act_splash.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\act_splash.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\shebeigridview_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\shebeigridview_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_view_shebei_listview_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\viewpager_view_shebei_listview_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guanlizhan_item_1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\guanlizhan_item_1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\pop_video_window.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\pop_video_window.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_respond_to_comment.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_respond_to_comment.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_item_image.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_item_image.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\op_radio_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\op_radio_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\title_layout2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\act_loading_2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\act_loading_2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guanlizhan_item_2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\guanlizhan_item_2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\xuanzezhan_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\xuanzezhan_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shebei.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\fragment_shebei.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_activity.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_activity.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\title_layout.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modifyremark2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_modifyremark2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\item_op_list.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\item_op_list.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_main_fragment.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_main_fragment.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guide_page5.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\guide_page5.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_capture1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\detail_list_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\detail_list_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\op_radio_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\op_radio_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\addzhan_saoma.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\addzhan_saoma.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\main_bottom.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\main_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\act_loading_1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\act_loading_1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_view_two.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\viewpager_view_two.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\act_loading_2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\act_loading_2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\act_loading.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\act_loading.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_op_details.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_op_details.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_login_1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_title_bar.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_title_bar.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\child_item_expandlistview1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\child_item_expandlistview1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_register_2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\op_detail_gridview_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\op_detail_gridview_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\add_pic_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\add_pic_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_main_fragment.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_main_fragment.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myyunwei.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_myyunwei.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myzhan_ditu.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_myzhan_ditu.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_view_shebei.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\viewpager_view_shebei.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\view_download_notify.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\view_download_notify.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_op.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_new_op.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_view.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\viewpager_view.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\act_loading.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\act_loading.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_item_folder.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_item_folder.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ceshi.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\fragment_ceshi.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_capture1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\shebei_nav_radiogroup_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\shebei_nav_radiogroup_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\takephotodialog.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\takephotodialog.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guanlizhan_item_1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\guanlizhan_item_1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_op.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_new_op.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\yunwei_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\yunwei_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myyunwei.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_myyunwei.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modifyremark2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_modifyremark2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\parent_item_expandlistview.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\parent_item_expandlistview.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myzhan_ditu.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_myzhan_ditu.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guzhang_search.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\guzhang_search.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\view_download_notify.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\view_download_notify.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_recorder.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_new_recorder.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\child_item_expandlistview.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\child_item_expandlistview.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_activity.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_activity.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_respond_to_comment.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_respond_to_comment.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\item_op_list.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\item_op_list.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modifypassword.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_modifypassword.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guide_page2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\guide_page2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\yunwei_detail.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\yunwei_detail.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_selection_common.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\fragment_selection_common.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yunwei.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\fragment_yunwei.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fgpassword.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_fgpassword.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_video.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_play_video.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\item_spinner.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shebei3.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\fragment_shebei3.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_op_troublesearch.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_op_troublesearch.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_view_shebei_listview_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\viewpager_view_shebei_listview_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\drop_spinner_style.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\drop_spinner_style.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\item_spinner.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\op_gridview_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\op_gridview_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_3.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_register_3.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myzhan.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_myzhan.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_view.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\viewpager_view.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_dropdown.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\simple_spinner_dropdown.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\overlay_mark.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\overlay_mark.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\drop_spinner_style.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\drop_spinner_style.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_item_camera.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_item_camera.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_recorder.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_new_recorder.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shebei3.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\fragment_shebei3.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\child_item_expandlistview.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\child_item_expandlistview.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\overlay_mark.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\overlay_mark.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modifyusername.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_modifyusername.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myinfo.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_myinfo.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\main_bottom.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\main_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\act_loading_1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\act_loading_1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\edittext_checknumber.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\edittext_checknumber.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_editquestionorreply.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_editquestionorreply.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_userstation_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\spinner_userstation_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\op_detail_gridview_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\op_detail_gridview_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yunwei.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\fragment_yunwei.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\op_gridview_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\op_gridview_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\act_main.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\act_main.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\shebei_data_listview_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\shebei_data_listview_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\yunwei_detail.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\yunwei_detail.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myinfo.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_myinfo.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\myzhan_addzhan_xuanzezhan.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\myzhan_addzhan_xuanzezhan.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_op_troublesearch.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_op_troublesearch.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_view_shebei.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\viewpager_view_shebei.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\yunwei_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\yunwei_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\image_detail_pager.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myzhan.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_myzhan.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\imageselector_item_camera.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\selectorImagesLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\imageselector_item_camera.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_editquestionorreply.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_editquestionorreply.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\shebeigridview_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\shebeigridview_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_3.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_register_3.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\edittext_checknumber.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\edittext_checknumber.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\shebei_data_listview_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\shebei_data_listview_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_updateversion.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\dialog_updateversion.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_dropdown.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\simple_spinner_dropdown.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fgpassword.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_fgpassword.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\myzhan_addzhan_xuanzezhan.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\myzhan_addzhan_xuanzezhan.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_login_1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_view_two.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\viewpager_view_two.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\image_detail_pager.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_kefuphone.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\dialog_kefuphone.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\pop_pic_window.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\pop_pic_window.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_userstation_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\spinner_userstation_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\nav_radiogroup_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\nav_radiogroup_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_protocol.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_protocol.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\add_pic_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\add_pic_item.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_protocol.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_protocol.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_video.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\activity_play_video.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guide_page5.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\guide_page5.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guide_page2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\guide_page2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_selection_common.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\fragment_selection_common.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\addzhan_saoma.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\addzhan_saoma.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ceshi.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\fragment_ceshi.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_register_2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\act_main.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\act_main.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_kefuphone.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\dialog_kefuphone.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guide_page1.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\guide_page1.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\library_pulltorefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout2.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\title_layout2.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_op_details.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\MyApplication\\weiWangYun\\src\\main\\res\\layout\\activity_op_details.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\delete_dialog.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\delete_dialog.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_updateversion.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\dialog_updateversion.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\guzhang_search.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\guzhang_search.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\build\\intermediates\\res\\merged\\debug\\layout\\shebei_nav_radiogroup_item.xml",
+        "source": "D:\\MyWork\\MyWorkspace\\eCloud_YLL\\weiWangYun\\src\\main\\res\\layout\\shebei_nav_radiogroup_item.xml"
+    }
+]

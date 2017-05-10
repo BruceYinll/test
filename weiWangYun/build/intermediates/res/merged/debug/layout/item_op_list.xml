@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/type_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#3b3d42"
+        android:padding="10dp"
+        android:text="上海闵行区微电站>光伏发电类设备>设备1"
+        android:textColor="#4d99e1"
+        android:textSize="@dimen/txt24" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4a4c53"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="故障标题"
+            android:textColor="#fff"
+            android:textSize="@dimen/dim30" />
+
+        <TextView
+            android:id="@+id/content_textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/dim10"
+            android:paddingTop="@dimen/dim10"
+            android:singleLine="true"
+            android:text="故障内容详情"
+            android:textColor="#96979a"
+            android:textSize="@dimen/dim26" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/enable_textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/problem_txt_back"
+                    android:drawableLeft="@drawable/red_point"
+                    android:drawablePadding="4dp"
+                    android:padding="@dimen/dim4"
+                    android:text="未解决"
+                    android:textColor="#ea2d49"
+                    android:textSize="@dimen/txt24" />
+
+                <TextView
+                    android:id="@+id/unenable_textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/problem_txt_back"
+                    android:drawableLeft="@drawable/green_point"
+                    android:drawablePadding="4dp"
+                    android:padding="@dimen/dim4"
+                    android:text="已解决"
+                    android:textColor="#2deabb"
+                    android:textSize="@dimen/txt24" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/creatTimeTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@null"
+                android:text="2016-01-02 10:20"
+                android:textColor="#fff"
+                android:textSize="@dimen/txt26" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim1"
+        android:background="@android:color/black" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:background="#35383f" />
+
+</LinearLayout>

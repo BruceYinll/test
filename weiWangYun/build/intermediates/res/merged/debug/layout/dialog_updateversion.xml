@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical" >
+    <TextView
+         android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim102"
+        android:text="版本提示"
+        android:textColor="#fffefe"
+        android:textSize="@dimen/txt36"
+        android:gravity="center"/>
+    <TextView 
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"  
+        android:text="当前有新版本,是否更新?" 
+        android:textColor="#f7f7f7"
+        android:textSize="@dimen/txt28"
+        android:paddingLeft="@dimen/dim30"
+        android:paddingRight="@dimen/dim30"/>
+    <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="@dimen/dim100" 
+                android:layout_gravity="center_vertical"                 
+               android:orientation="horizontal" >
+            <CheckBox
+                android:id="@+id/check_box"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dim24"
+                android:background="@drawable/checkbox_style_version"                
+                android:checked="false"
+                android:button="@null"                            
+                android:layout_marginLeft="@dimen/dim30" 
+                 android:layout_gravity="center_vertical" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dim20"                  
+                android:text="忽略该版本"
+                android:textSize="@dimen/txt24"
+                android:textColor="#818285" 
+                android:layout_gravity="center_vertical"     />
+            
+        </LinearLayout>
+     <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dim60"
+                            
+                android:checked="false"
+                android:paddingLeft="@dimen/dim20"
+                android:text="忽略该版本"
+                android:textSize="@dimen/dim25"
+                android:textColor="#bcbdc1"
+                android:visibility="gone"/>
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim1" 
+        android:background="#444852"/>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+      <TextView
+        android:id="@+id/quxiao"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="@dimen/dim90" 
+        android:text="以后再说"
+        android:textColor="#51a6f6"
+        android:textSize="@dimen/txt36"
+        android:gravity="center"></TextView>
+      
+      <View 
+        android:layout_width="@dimen/dim1"
+        android:layout_height="@dimen/dim90" 
+        android:background="#444852"/>
+      <TextView
+        android:id="@+id/queding"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="@dimen/dim90" 
+        android:text="立即更新"
+        android:textColor="#51a6f6"
+        android:textSize="@dimen/txt36"
+        android:gravity="center"></TextView>
+    </LinearLayout>
+    
+</LinearLayout>

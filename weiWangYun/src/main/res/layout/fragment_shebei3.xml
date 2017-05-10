@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:gravity="center"
+        android:background="#2d3037"
+        android:orientation="horizontal">
+      <Spinner
+        android:id="@+id/spin_province"
+        android:layout_width="162.5dp"
+        android:layout_height="30dp"
+        style="@style/spinner_style" />
+
+       <Spinner
+        android:id="@+id/spin_city"
+        android:layout_width="162.5dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="8dp" 
+        style="@style/spinner_style"/>  
+        
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/rl_tab"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#202126" 
+>      
+        <com.sptd.eyun.widget.ShebeiHorizontalScrollView
+            android:id="@+id/mHsv"
+            android:layout_width="match_parent"
+            android:layout_height="115dip"
+            android:fadingEdge="none"
+            android:scrollbars="none" >
+
+            <RelativeLayout
+                android:id="@+id/rl_nav"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="#202126" >
+
+                <RadioGroup
+                    android:id="@+id/rg_nav_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="115dip"
+                    android:layout_centerInParent="true"
+                    android:background="#202126"
+                    android:paddingLeft="12dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingRight="12dp"
+                    android:orientation="horizontal" >
+                </RadioGroup>
+
+            </RelativeLayout>
+        </com.sptd.eyun.widget.ShebeiHorizontalScrollView>
+         <ImageView
+            android:id="@+id/iv_nav_left"
+            android:layout_width="22.5dp"
+            android:layout_height="22.5dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="1dip"
+            android:src="@drawable/iv_navagation_scroll_left"
+            android:visibility="invisible"
+  >
+        </ImageView>
+        
+        <ImageView
+            android:id="@+id/iv_nav_right"
+            android:layout_width="22.5dp"
+            android:layout_height="22.5dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="1dip"
+            android:src="@drawable/iv_navagation_scroll_right"
+            android:visibility="visible" >
+        </ImageView>
+    </RelativeLayout> 
+    
+    
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#35383f"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/viewpager_view_shebei_shebeiname"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim56"
+        android:gravity="center"
+        android:textSize="@dimen/txt30"
+        android:textColor="#ffffff"
+        android:text="设备名称"
+        android:paddingLeft="9dp"
+        android:paddingRight="9dp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:background="#2b2c31"/>
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim6" 
+        android:background="#ea2d49"/>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dim72"
+        android:background="#4a4c53"
+        android:orientation="horizontal">
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="#d4d4d5"
+            android:textSize="@dimen/txt28"
+            android:text="序号"/>
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="#d4d4d5"
+            android:textSize="@dimen/txt28"
+            android:text="名称"/>
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="#d4d4d5"
+            android:textSize="@dimen/txt28"
+            android:text="数值"/>
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="#d4d4d5"
+            android:textSize="@dimen/txt28"
+            android:text="单位"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/viewpager_view_shebei_listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+    
+   </LinearLayout>
+    
+</LinearLayout>
+
