@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eCloud_YLL.iml" filepath="$PROJECT_DIR$/eCloud_YLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_pulltorefresh/library_pulltorefresh.iml" filepath="$PROJECT_DIR$/library_pulltorefresh/library_pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalableVideoView/scalableVideoView.iml" filepath="$PROJECT_DIR$/scalableVideoView/scalableVideoView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectorImagesLibrary/selectorImagesLibrary.iml" filepath="$PROJECT_DIR$/selectorImagesLibrary/selectorImagesLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wXlibrary/wXlibrary.iml" filepath="$PROJECT_DIR$/wXlibrary/wXlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weiWangYun/weiWangYun.iml" filepath="$PROJECT_DIR$/weiWangYun/weiWangYun.iml" />
+    </modules>
+  </component>
+</project>

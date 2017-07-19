@@ -46,7 +46,7 @@ MERGED from [com.android.support:support-v4:20.0.0] C:\Users\admin\.android\buil
 		REJECTED from [eCloud_YLL:wXlibrary:unspecified] D:\MyWork\MyWorkspace\eCloud_YLL\wXlibrary\build\intermediates\bundles\default\AndroidManifest.xml:13:9-45
 		REJECTED from [eCloud_YLL:scalableVideoView:unspecified] D:\MyWork\MyWorkspace\eCloud_YLL\scalableVideoView\build\intermediates\bundles\default\AndroidManifest.xml:13:9-45
 	android:theme
-		ADDED from D:\MyWork\MyWorkspace\eCloud_YLL\weiWangYun\src\main\AndroidManifest.xml:18:9-62
+		ADDED from D:\MyWork\MyWorkspace\eCloud_YLL\weiWangYun\src\main\AndroidManifest.xml:18:9-56
 		REJECTED from [eCloud_YLL:scalableVideoView:unspecified] D:\MyWork\MyWorkspace\eCloud_YLL\scalableVideoView\build\intermediates\bundles\default\AndroidManifest.xml:15:9-40
 	tools:replace
 		ADDED from D:\MyWork\MyWorkspace\eCloud_YLL\weiWangYun\src\main\AndroidManifest.xml:19:9-52
